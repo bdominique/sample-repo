@@ -8,4 +8,6 @@ _Brandon Dominique_
 3-Commit(Really save your changes to GitHub)
 4-Push(Show everyone else what changes you made)
 
+1-3 is local, 4 actually involves GitHub
+
 A sample Repository for learning Git.
