@@ -4,6 +4,8 @@ _Brandon Dominique_
 
 **7/16/2019**
 
+0-Pull (Always work with the most recent version)
+
 1-Save (Save Changes to Desktop)
 
 2-Add (Save your changes to GitHub)
